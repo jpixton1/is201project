@@ -1,0 +1,22 @@
+.aligncenter {
+    text-align: center;
+}
+.resumeListHeading {
+    font-weight: bold;
+    color: white;
+    left: 50px;
+    font-size: large;
+}
+.mainbody {
+    left: 50px;
+    color: white;
+    font-weight: normal;
+    font-size: medium;
+    font-family: sans-serif;
+}
+.justify {
+    text-align: center;
+}
+.anchor {
+    color: wheat;
+}
